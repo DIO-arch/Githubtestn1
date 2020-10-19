@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Github test n1</string>
+    <string name="textOnButton">click here</string>
+    <string name="textOnTextBox">Number of clicks</string>
+</resources>
